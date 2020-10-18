@@ -1,1 +1,1 @@
-# Day-2-Assignment-Submission
+Assignment-Submission
